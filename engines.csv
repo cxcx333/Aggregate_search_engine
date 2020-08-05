@@ -1,0 +1,48 @@
+综合,,Google,https://www.google.com/search?q=%s
+综合,,Duckduckgo,https://duckduckgo.com/?q=%s
+综合,,百度,https://www.baidu.com/baidu?wd=%s&tn=monline_dg&ie=utf-8
+视频,综合,YouTube,https://www.youtube.com/results?search_query=%s
+视频,综合,哔哩哔哩,http://search.bilibili.com/all?keyword=%s
+视频,综合,Vimeo,https://vimeo.com/search?q=%s
+视频,直播,虎牙,https://www.huya.com/search?hsk=%s
+视频,直播,斗鱼,https://www.douyu.com/search/?kw=%s
+视频,直播,Twitch,https://www.twitch.tv/search?term=%s
+微博,综合,Twitter,https://twitter.com/search?q=%s&src=typed_query
+微博,综合,新浪微博,https://s.weibo.com/weibo/%s?topnav=1&wvr=6&b=1
+问答,综合,知乎,https://www.zhihu.com/search?q=%s&type=content
+问答,综合,Quora,https://www.quora.com/search?q=%s
+问答,编程,Stackoverflow,https://stackoverflow.com/search?q=%s
+社区,综合,Reddit,https://www.reddit.com/search/?q=%s
+社区,编程,CSDN,https://so.csdn.net/so/search/s.do?q=%s
+知识,编程,GitHub,https://github.com/search?q=%s
+知识,编程,菜鸟教程,https://www.runoob.com/?s=%s
+知识,编程,W3School,https://www.google.com/search?sitesearch=w3school.com.cn&as_q=%s
+电商,,京东,https://search.jd.com/Search?keyword=%s&enc=utf-8&wq=ASD&pvid=def037b178ac4b6fa9af0c4906566ec6
+电商,,淘宝,https://s.taobao.com/search?q=%s
+电商,,Amazon,https://www.amazon.com/s?k=%s&__mk_zh_CN=亚马逊网站&ref=nb_sb_noss
+图片,综合,Google Image,https://www.google.com/search?q=%s&tbm=isch&ved=2ahUKEwik_b2Ow-_pAhVP6JQKHeWJBZcQ2-cCegQIABAA&oq=%s&gs_lcp=CgNpbWcQDDIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgUIABCxAzICCAAyAggAMgIIADICCABQ6ypYxC1giTJoAHAAeACAAWmIAbgCkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=UcXcXuSQAc_Q0wTlk5a4CQ&bih=1305&biw=843&
+图片,综合,Yandex,https://yandex.com/images/search?text=%s
+图片,壁纸,Wallpapermaiden,https://www.wallpapermaiden.com/search?term=%s
+图片,社交,Pinterest,https://www.pinterest.com/search/pins/?q=%s&rs=typed&term_meta[]=%s|typed
+歌词,,网易云音乐(歌词),https://music.163.com/#/search/m/?s=%s&type=1006
+歌词,,Genius,https://genius.com/search?q=%s
+BT,综合,RARBG,https://rarbgprx.org/torrents.php?search=%s
+BT,综合,海盗湾,https://thepiratebay.org/search.php?q=%s&all=on&search=Pirate+Search&page=0&orderby=
+BT,综合,Btsow,https://btsow.site/search/%s
+BT,影视,片源网,http://pianyuan.la/search?q=%s
+BT,影视,SubDH,https://subdh.com/search/%s
+资讯,综合,微信文章,https://weixin.sogou.com/weixin?type=2&query=%s&ie=utf8&s_from=input&_sug_=y&_sug_type_=
+资讯,影视,豆瓣电影,https://search.douban.com/movie/subject_search?search_text=%s&cat=1002
+资讯,影视,IMDb,https://www.imdb.com/find?q=%s
+百科,,Wikipedia(chs),https://zh.wikipedia.org/wiki/%s
+百科,,Wikipedia(eng),https://en.wikipedia.org/wiki/%s
+百科,,百度百科,https://baike.baidu.com/search/none?word=%s&pn=0&rn=10&enc=utf8
+杂类,,Quicker,https://getquicker.net/Search?keyword=%s
+杂类,,SubHD,https://subhd.tv/search/%s
+杂类,,Greasy Fork,https://greasyfork.org/zh-CN/scripts?q=%s
+杂类,,chrome扩展,chrome.google.com/webstore/search/%s
+杂类,,Google Maps,https://www.google.com/maps/search/%s/
+杂类,,IGG Game,https://igg-games.com/?s=%s
+翻译,单词,Bing 词典,https://cn.bing.com/dict/search?q=%s&qs=n&form=Z9LH5&sp=-1&pq=%s&sc=8-4&sk=&cvid=576CAC2E23484D09B5E1D7715A464BC7
+翻译,句子,谷歌翻译到中文,https://translate.google.com/?hl=en&tab=TT#view=home&op=translate&sl=en&tl=zh-CN&text=%s
+翻译,句子,谷歌翻译到英文,https://translate.google.com/?um=1&ie=UTF-8&hl=en&client=tw-ob#view=home&op=translate&sl=auto&tl=en&text=%s
